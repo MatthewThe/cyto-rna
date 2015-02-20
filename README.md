@@ -6,8 +6,8 @@ Project description: https://github.com/MatthewThe/cyto-rna/wiki/Project-descrip
 
 Matthew's diary: https://github.com/MatthewThe/cyto-rna/wiki/Diary-Matthew
 
-Matilda's diary: ??
+Matilda's diary: https://github.com/MatthewThe/cyto-rna/wiki/Diary-Matilda
 
-Sauvagya's diary: ??
+Sauvagya's diary: https://github.com/MatthewThe/cyto-rna/wiki/Diary-Sauvagya
 
 Short git tutorial: https://github.com/MatthewThe/cyto-rna/wiki/Git-tutorial
