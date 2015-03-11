@@ -1,0 +1,7 @@
+1	response to stimulus (GO:0050896)	1	5.3%	5.3%
+2	immune system process (GO:0002376)	1	5.3%	5.3%
+3	developmental process (GO:0032502)	1	5.3%	5.3%
+4	cellular process (GO:0009987)	2	10.5%	10.5%
+5	metabolic process (GO:0008152)	6	31.6%	31.6%
+6	biological regulation (GO:0065007)	2	10.5%	10.5%
+7	localization (GO:0051179)	6	31.6%	31.6%

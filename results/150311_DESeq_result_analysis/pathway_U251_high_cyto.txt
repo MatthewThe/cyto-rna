@@ -1,0 +1,27 @@
+1	Apoptosis signaling pathway (P00006)	2	1.2%	4.4%
+2	Histamine H1 receptor mediated signaling pathway (P04385)	1	0.6%	2.2%
+3	Alzheimer disease-presenilin pathway (P00004)	1	0.6%	2.2%
+4	Integrin signalling pathway (P00034)	2	1.2%	4.4%
+5	Inflammation mediated by chemokine and cytokine signaling pathway (P00031)	1	0.6%	2.2%
+6	Ubiquitin proteasome pathway (P00060)	2	1.2%	4.4%
+7	Parkinson disease (P00049)	4	2.4%	8.9%
+8	EGF receptor signaling pathway (P00018)	1	0.6%	2.2%
+9	Gonadotropin releasing hormone receptor pathway (P06664)	2	1.2%	4.4%
+10	DNA replication (P00017)	1	0.6%	2.2%
+11	PDGF signaling pathway (P00047)	1	0.6%	2.2%
+12	Thyrotropin-releasing hormone receptor signaling pathway (P04394)	1	0.6%	2.2%
+13	Oxytocin receptor mediated signaling pathway (P04391)	1	0.6%	2.2%
+14	Cadherin signaling pathway (P00012)	5	3.0%	11.1%
+15	Blood coagulation (P00011)	1	0.6%	2.2%
+16	Huntington disease (P00029)	1	0.6%	2.2%
+17	p53 pathway (P00059)	1	0.6%	2.2%
+18	Pyruvate metabolism (P02772)	1	0.6%	2.2%
+19	Wnt signaling pathway (P00057)	6	3.7%	13.3%
+20	5HT2 type receptor mediated signaling pathway (P04374)	1	0.6%	2.2%
+21	Hedgehog signaling pathway (P00025)	2	1.2%	4.4%
+22	Transcription regulation by bZIP transcription factor (P00055)	2	1.2%	4.4%
+23	Glycolysis (P00024)	1	0.6%	2.2%
+24	Toll receptor signaling pathway (P00054)	1	0.6%	2.2%
+25	General transcription regulation (P00023)	1	0.6%	2.2%
+26	FGF signaling pathway (P00021)	1	0.6%	2.2%
+27	Plasminogen activating cascade (P00050)	1	0.6%	2.2%

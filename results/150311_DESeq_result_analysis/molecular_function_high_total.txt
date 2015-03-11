@@ -1,0 +1,5 @@
+1	binding (GO:0005488)	4	21.1%	26.7%
+2	enzyme regulator activity (GO:0030234)	2	10.5%	13.3%
+3	structural molecule activity (GO:0005198)	1	5.3%	6.7%
+4	catalytic activity (GO:0003824)	4	21.1%	26.7%
+5	transporter activity (GO:0005215)	4	21.1%	26.7%

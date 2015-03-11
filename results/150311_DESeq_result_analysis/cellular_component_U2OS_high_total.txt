@@ -1,0 +1,5 @@
+1	macromolecular complex (GO:0032991)	1	1.8%	7.1%
+2	extracellular matrix (GO:0031012)	3	5.3%	21.4%
+3	cell part (GO:0044464)	4	7.0%	28.6%
+4	organelle (GO:0043226)	3	5.3%	21.4%
+5	extracellular region (GO:0005576)	3	5.3%	21.4%

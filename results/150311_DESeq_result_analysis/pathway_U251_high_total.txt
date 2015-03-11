@@ -1,0 +1,32 @@
+1	O-antigen biosynthesis (P02757)	1	0.5%	1.9%
+2	N-acetylglucosamine metabolism (P02756)	1	0.5%	1.9%
+3	JAK/STAT signaling pathway (P00038)	1	0.5%	1.9%
+4	Interleukin signaling pathway (P00036)	1	0.5%	1.9%
+5	Angiogenesis (P00005)	4	1.9%	7.7%
+6	Alzheimer disease-presenilin pathway (P00004)	5	2.3%	9.6%
+7	Interferon-gamma signaling pathway (P00035)	1	0.5%	1.9%
+8	Alzheimer disease-amyloid secretase pathway (P00003)	3	1.4%	5.8%
+9	Integrin signalling pathway (P00034)	2	0.9%	3.8%
+10	Insulin/IGF pathway-protein kinase B signaling cascade (P00033)	1	0.5%	1.9%
+11	Insulin/IGF pathway-mitogen activated protein kinase kinase/MAP kinase cascade (P00032)	1	0.5%	1.9%
+12	Inflammation mediated by chemokine and cytokine signaling pathway (P00031)	2	0.9%	3.8%
+13	Purine metabolism (P02769)	1	0.5%	1.9%
+14	Hypoxia response via HIF activation (P00030)	1	0.5%	1.9%
+15	De novo purine biosynthesis (P02738)	1	0.5%	1.9%
+16	Ubiquitin proteasome pathway (P00060)	1	0.5%	1.9%
+17	p53 pathway feedback loops 2 (P04398)	1	0.5%	1.9%
+18	p53 pathway by glucose deprivation (P04397)	1	0.5%	1.9%
+19	Parkinson disease (P00049)	1	0.5%	1.9%
+20	EGF receptor signaling pathway (P00018)	1	0.5%	1.9%
+21	Gonadotropin releasing hormone receptor pathway (P06664)	4	1.9%	7.7%
+22	PI3 kinase pathway (P00048)	2	0.9%	3.8%
+23	PDGF signaling pathway (P00047)	3	1.4%	5.8%
+24	Ras Pathway (P04393)	1	0.5%	1.9%
+25	Cholesterol biosynthesis (P00014)	1	0.5%	1.9%
+26	Cadherin signaling pathway (P00012)	2	0.9%	3.8%
+27	p53 pathway (P00059)	1	0.5%	1.9%
+28	Heterotrimeric G-protein signaling pathway-rod outer segment phototransduction (P00028)	1	0.5%	1.9%
+29	Wnt signaling pathway (P00057)	2	0.9%	3.8%
+30	Endogenous_cannabinoid_signaling (P05730)	1	0.5%	1.9%
+31	TGF-beta signaling pathway (P00052)	2	0.9%	3.8%
+32	FGF signaling pathway (P00021)	1	0.5%	1.9%

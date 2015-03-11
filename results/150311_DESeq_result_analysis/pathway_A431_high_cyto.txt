@@ -1,0 +1,31 @@
+1	Apoptosis signaling pathway (P00006)	2	2.1%	4.3%
+2	Interleukin signaling pathway (P00036)	1	1.1%	2.2%
+3	Angiogenesis (P00005)	1	1.1%	2.2%
+4	Alzheimer disease-presenilin pathway (P00004)	1	1.1%	2.2%
+5	Integrin signalling pathway (P00034)	1	1.1%	2.2%
+6	Insulin/IGF pathway-protein kinase B signaling cascade (P00033)	1	1.1%	2.2%
+7	Inflammation mediated by chemokine and cytokine signaling pathway (P00031)	2	2.1%	4.3%
+8	Hypoxia response via HIF activation (P00030)	1	1.1%	2.2%
+9	Ubiquitin proteasome pathway (P00060)	1	1.1%	2.2%
+10	p53 pathway feedback loops 2 (P04398)	1	1.1%	2.2%
+11	Endothelin signaling pathway (P00019)	1	1.1%	2.2%
+12	p53 pathway by glucose deprivation (P04397)	1	1.1%	2.2%
+13	Parkinson disease (P00049)	2	2.1%	4.3%
+14	EGF receptor signaling pathway (P00018)	2	2.1%	4.3%
+15	Gonadotropin releasing hormone receptor pathway (P06664)	3	3.2%	6.5%
+16	PI3 kinase pathway (P00048)	1	1.1%	2.2%
+17	DNA replication (P00017)	1	1.1%	2.2%
+18	PDGF signaling pathway (P00047)	1	1.1%	2.2%
+19	Ras Pathway (P04393)	1	1.1%	2.2%
+20	Cholesterol biosynthesis (P00014)	1	1.1%	2.2%
+21	Cadherin signaling pathway (P00012)	4	4.3%	8.7%
+22	Blood coagulation (P00011)	1	1.1%	2.2%
+23	Huntington disease (P00029)	3	3.2%	6.5%
+24	p53 pathway (P00059)	1	1.1%	2.2%
+25	Flavin biosynthesis (P02741)	1	1.1%	2.2%
+26	Wnt signaling pathway (P00057)	4	4.3%	8.7%
+27	Hedgehog signaling pathway (P00025)	1	1.1%	2.2%
+28	Toll receptor signaling pathway (P00054)	1	1.1%	2.2%
+29	T cell activation (P00053)	1	1.1%	2.2%
+30	FGF signaling pathway (P00021)	2	2.1%	4.3%
+31	Plasminogen activating cascade (P00050)	1	1.1%	2.2%

@@ -1,0 +1,15 @@
+1	Gonadotropin releasing hormone receptor pathway (P06664)	1	1.8%	6.7%
+2	Cholesterol biosynthesis (P00014)	1	1.8%	6.7%
+3	Integrin signalling pathway (P00034)	1	1.8%	6.7%
+4	Angiogenesis (P00005)	1	1.8%	6.7%
+5	Alzheimer disease-presenilin pathway (P00004)	1	1.8%	6.7%
+6	5HT4 type receptor mediated signaling pathway (P04376)	1	1.8%	6.7%
+7	Wnt signaling pathway (P00057)	1	1.8%	6.7%
+8	Heterotrimeric G-protein signaling pathway-rod outer segment phototransduction (P00028)	1	1.8%	6.7%
+9	Adrenaline and noradrenaline biosynthesis (P00001)	1	1.8%	6.7%
+10	5HT3 type receptor mediated signaling pathway (P04375)	1	1.8%	6.7%
+11	5HT2 type receptor mediated signaling pathway (P04374)	1	1.8%	6.7%
+12	5HT1 type receptor mediated signaling pathway (P04373)	1	1.8%	6.7%
+13	TGF-beta signaling pathway (P00052)	1	1.8%	6.7%
+14	Dopamine receptor mediated signaling pathway (P05912)	1	1.8%	6.7%
+15	Nicotine pharmacodynamics pathway (P06587)	1	1.8%	6.7%

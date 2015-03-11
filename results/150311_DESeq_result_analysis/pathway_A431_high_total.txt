@@ -1,0 +1,36 @@
+1	Axon guidance mediated by netrin (P00009)	1	0.8%	2.0%
+2	Beta2 adrenergic receptor signaling pathway (P04378)	1	0.8%	2.0%
+3	Metabotropic glutamate receptor group III pathway (P00039)	1	0.8%	2.0%
+4	Beta1 adrenergic receptor signaling pathway (P04377)	1	0.8%	2.0%
+5	JAK/STAT signaling pathway (P00038)	1	0.8%	2.0%
+6	Angiogenesis (P00005)	2	1.7%	3.9%
+7	Ionotropic glutamate receptor pathway (P00037)	1	0.8%	2.0%
+8	Alzheimer disease-presenilin pathway (P00004)	2	1.7%	3.9%
+9	Interleukin signaling pathway (P00036)	2	1.7%	3.9%
+10	5HT2 type receptor mediated signaling pathway (P04374)	1	0.8%	2.0%
+11	Alzheimer disease-amyloid secretase pathway (P00003)	1	0.8%	2.0%
+12	Interferon-gamma signaling pathway (P00035)	1	0.8%	2.0%
+13	Integrin signalling pathway (P00034)	2	1.7%	3.9%
+14	Insulin/IGF pathway-protein kinase B signaling cascade (P00033)	3	2.5%	5.9%
+15	Insulin/IGF pathway-mitogen activated protein kinase kinase/MAP kinase cascade (P00032)	2	1.7%	3.9%
+16	Inflammation mediated by chemokine and cytokine signaling pathway (P00031)	2	1.7%	3.9%
+17	Hypoxia response via HIF activation (P00030)	2	1.7%	3.9%
+18	Synaptic_vesicle_trafficking (P05734)	1	0.8%	2.0%
+19	p53 pathway (P00059)	2	1.7%	3.9%
+20	p53 pathway feedback loops 2 (P04398)	2	1.7%	3.9%
+21	Wnt signaling pathway (P00057)	2	1.7%	3.9%
+22	VEGF signaling pathway (P00056)	1	0.8%	2.0%
+23	O-antigen biosynthesis (P02757)	1	0.8%	2.0%
+24	Thyrotropin-releasing hormone receptor signaling pathway (P04394)	1	0.8%	2.0%
+25	N-acetylglucosamine metabolism (P02756)	1	0.8%	2.0%
+26	Ras Pathway (P04393)	1	0.8%	2.0%
+27	FGF signaling pathway (P00021)	1	0.8%	2.0%
+28	Oxytocin receptor mediated signaling pathway (P04391)	1	0.8%	2.0%
+29	Endothelin signaling pathway (P00019)	1	0.8%	2.0%
+30	EGF receptor signaling pathway (P00018)	2	1.7%	3.9%
+31	PI3 kinase pathway (P00048)	2	1.7%	3.9%
+32	PDGF signaling pathway (P00047)	2	1.7%	3.9%
+33	Cadherin signaling pathway (P00012)	1	0.8%	2.0%
+34	Nicotinic acetylcholine receptor signaling pathway (P00044)	1	0.8%	2.0%
+35	Metabotropic glutamate receptor group II pathway (P00040)	1	0.8%	2.0%
+36	Gonadotropin releasing hormone receptor pathway (P06664)	1	0.8%	2.0%

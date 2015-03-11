@@ -1,0 +1,41 @@
+1	Beta3 adrenergic receptor signaling pathway (P04379)	1	3.6%	2.1%
+2	Beta2 adrenergic receptor signaling pathway (P04378)	1	3.6%	2.1%
+3	Metabotropic glutamate receptor group III pathway (P00039)	1	3.6%	2.1%
+4	Beta1 adrenergic receptor signaling pathway (P04377)	1	3.6%	2.1%
+5	Apoptosis signaling pathway (P00006)	1	3.6%	2.1%
+6	5HT4 type receptor mediated signaling pathway (P04376)	1	3.6%	2.1%
+7	Angiogenesis (P00005)	1	3.6%	2.1%
+8	Ionotropic glutamate receptor pathway (P00037)	1	3.6%	2.1%
+9	5HT3 type receptor mediated signaling pathway (P04375)	1	3.6%	2.1%
+10	Alzheimer disease-presenilin pathway (P00004)	1	3.6%	2.1%
+11	5HT2 type receptor mediated signaling pathway (P04374)	2	7.1%	4.2%
+12	Alzheimer disease-amyloid secretase pathway (P00003)	1	3.6%	2.1%
+13	5HT1 type receptor mediated signaling pathway (P04373)	1	3.6%	2.1%
+14	Alpha adrenergic receptor signaling pathway (P00002)	2	7.1%	4.2%
+15	Integrin signalling pathway (P00034)	1	3.6%	2.1%
+16	Adrenaline and noradrenaline biosynthesis (P00001)	1	3.6%	2.1%
+17	Synaptic_vesicle_trafficking (P05734)	1	3.6%	2.1%
+18	Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway (P00027)	1	3.6%	2.1%
+19	Wnt signaling pathway (P00057)	2	7.1%	4.2%
+20	VEGF signaling pathway (P00056)	1	3.6%	2.1%
+21	Thyrotropin-releasing hormone receptor signaling pathway (P04394)	2	7.1%	4.2%
+22	FGF signaling pathway (P00021)	1	3.6%	2.1%
+23	Oxytocin receptor mediated signaling pathway (P04391)	2	7.1%	4.2%
+24	Plasminogen activating cascade (P00050)	1	3.6%	2.1%
+25	Endothelin signaling pathway (P00019)	1	3.6%	2.1%
+26	EGF receptor signaling pathway (P00018)	1	3.6%	2.1%
+27	Opioid proopiomelanocortin pathway (P05917)	1	3.6%	2.1%
+28	PDGF signaling pathway (P00047)	1	3.6%	2.1%
+29	Opioid prodynorphin pathway (P05916)	1	3.6%	2.1%
+30	Opioid proenkephalin pathway (P05915)	1	3.6%	2.1%
+31	Histamine H1 receptor mediated signaling pathway (P04385)	1	3.6%	2.1%
+32	Cadherin signaling pathway (P00012)	1	3.6%	2.1%
+33	Nicotinic acetylcholine receptor signaling pathway (P00044)	1	3.6%	2.1%
+34	Blood coagulation (P00011)	1	3.6%	2.1%
+35	Muscarinic acetylcholine receptor 2 and 4 signaling pathway (P00043)	1	3.6%	2.1%
+36	Dopamine receptor mediated signaling pathway (P05912)	1	3.6%	2.1%
+37	Muscarinic acetylcholine receptor 1 and 3 signaling pathway (P00042)	2	7.1%	4.2%
+38	Angiotensin II-stimulated signaling through G proteins and beta-arrestin (P05911)	1	3.6%	2.1%
+39	Cortocotropin releasing factor receptor signaling pathway (P04380)	1	3.6%	2.1%
+40	Metabotropic glutamate receptor group II pathway (P00040)	1	3.6%	2.1%
+41	Gonadotropin releasing hormone receptor pathway (P06664)	2	7.1%	4.2%

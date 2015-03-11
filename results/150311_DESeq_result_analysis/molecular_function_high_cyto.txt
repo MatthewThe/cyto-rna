@@ -1,0 +1,5 @@
+1	nucleic acid binding transcription factor activity (GO:0001071)	3	27.3%	18.8%
+2	binding (GO:0005488)	6	54.5%	37.5%
+3	receptor activity (GO:0004872)	3	27.3%	18.8%
+4	enzyme regulator activity (GO:0030234)	1	9.1%	6.3%
+5	catalytic activity (GO:0003824)	3	27.3%	18.8%

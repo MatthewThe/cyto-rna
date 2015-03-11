@@ -1,0 +1,25 @@
+1	extracellular matrix protein (PC00102)	7	4.3%	4.5%
+2	protease (PC00190)	4	2.4%	2.6%
+3	cytoskeletal protein (PC00085)	7	4.3%	4.5%
+4	transporter (PC00227)	6	3.7%	3.9%
+5	transmembrane receptor regulatory/adaptor protein (PC00226)	1	0.6%	0.6%
+6	transferase (PC00220)	10	6.1%	6.5%
+7	oxidoreductase (PC00176)	2	1.2%	1.3%
+8	cell adhesion molecule (PC00069)	8	4.9%	5.2%
+9	ligase (PC00142)	4	2.4%	2.6%
+10	nucleic acid binding (PC00171)	20	12.2%	12.9%
+11	signaling molecule (PC00207)	4	2.4%	2.6%
+12	enzyme modulator (PC00095)	15	9.1%	9.7%
+13	calcium-binding protein (PC00060)	4	2.4%	2.6%
+14	defense/immunity protein (PC00090)	1	0.6%	0.6%
+15	hydrolase (PC00121)	11	6.7%	7.1%
+16	transfer/carrier protein (PC00219)	4	2.4%	2.6%
+17	membrane traffic protein (PC00150)	1	0.6%	0.6%
+18	phosphatase (PC00181)	1	0.6%	0.6%
+19	transcription factor (PC00218)	16	9.8%	10.3%
+20	chaperone (PC00072)	4	2.4%	2.6%
+21	cell junction protein (PC00070)	2	1.2%	1.3%
+22	surfactant (PC00212)	1	0.6%	0.6%
+23	structural protein (PC00211)	2	1.2%	1.3%
+24	kinase (PC00137)	2	1.2%	1.3%
+25	receptor (PC00197)	18	11.0%	11.6%
