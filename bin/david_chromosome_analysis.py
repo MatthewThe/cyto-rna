@@ -43,6 +43,8 @@ for idx, highIn in enumerate(["total", "cyto"]):
       count = float(row[3])/100
       bg = count/float(row[9])
       bgCounts[getChromKey(cat)-1].append(bg)
+      if float(row[-2]) < 0.01:
+        print highIn, cellLine, cat, row[-2]
       if cat not in cats:
         cats.append(cat)
         catCounts.append([0,0,0])
