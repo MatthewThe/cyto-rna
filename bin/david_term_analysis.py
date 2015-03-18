@@ -35,10 +35,10 @@ for mainCat in esVector:
 
   for i in range(6):
     if i % 2 == 0:
-      mult = 1
+      bottom = 0
     else:
-      mult = -1
-    plt.bar(ind + width/2 + (i%3)*width, [mult*esVector[mainCat][subCat][i] for subCat in esVector[mainCat]], width, color = colors[i % 3])
+      bottom = -25
+    plt.bar(ind + width/2 + (i%3)*width, [esVector[mainCat][subCat][i] for subCat in esVector[mainCat]], width, bottom = bottom, color = colors[i % 3])
 
   plt.ylabel('DAVID Enrichment score', fontsize = 28)
   # Hide major tick labels
@@ -49,8 +49,11 @@ for mainCat in esVector:
   ax.xaxis.set_minor_locator(ticker.FixedLocator(ind + 0.7))
   ax.xaxis.set_minor_formatter(ticker.FixedFormatter(subCats))
   
+  ax.yaxis.set_major_locator(ticker.FixedLocator([-25, -15, -5, 0, 10, 20]))
+  ax.yaxis.set_major_formatter(ticker.FixedFormatter([0, 10, 20, 0, 10, 20]))
+  
   ax.text(0.1, 22, "Total", fontsize = 20, va = "center", bbox={'facecolor':'white', 'pad':10})
-  ax.text(0.1, -22, "Cyto", fontsize = 20, va = "center", bbox={'facecolor':'white', 'pad':10})
+  ax.text(0.1, -3, "Cyto", fontsize = 20, va = "center", bbox={'facecolor':'white', 'pad':10})
   for tick in ax.xaxis.get_minor_ticks():
     tick.label.set_fontsize(20)
     tick.label.set_rotation(45)
@@ -64,6 +67,7 @@ for mainCat in esVector:
   #plt.tight_layout()
   plt.grid()
   plt.plot([0, len(subCats)],[0, 0], color = 'k')
+  plt.plot([0, len(subCats)],[-25, -25], color = 'k')
   plt.xlim([0, len(subCats)])
   plt.ylim([-25, 25])
   fig.subplots_adjust(bottom=0.4)
