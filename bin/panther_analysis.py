@@ -26,8 +26,8 @@ for i, cellLine in enumerate(cellLines):
       catCounts.append([0,0,0])
     catCounts[cats.index(cat)][i] = count
 
-cats = [x for (y,x) in sorted(zip([sum(cnts) for cnts in catCounts],cats), reverse = True)]
 catCounts = [x for (y,x) in sorted(zip([sum(cnts) for cnts in catCounts],catCounts), reverse = True)]
+cats = [x for (y,x) in sorted(zip([sum(cnts) for cnts in catCounts],cats), reverse = True)]
 ind = np.arange(len(cats))
 width = 0.25
 colors = ['r','b','g']
